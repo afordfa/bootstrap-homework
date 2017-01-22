@@ -1,0 +1,100 @@
+/*COLOR/DEFAULT.CSS changes*/
+
+.btn-skin {
+    color: #fff;
+    background-color: #6031b9;
+    border-color: #1e0c58;
+}
+
+.btn-skin:hover, .btn-skin:focus, .btn-skin:active, .btn-skin.active {
+    color: #fff;
+    background-color: rgb(177, 154, 202);
+    border-color: #4b07d8;
+}
+
+
+
+a:hover,
+a:focus {
+    color: rgb(177, 154, 202);
+}
+
+#navigation {
+	border-top: 5px solid #4b07d8;
+}
+
+a,.tp-caption a.btn:hover {
+	color: rgb(177, 154, 202);
+}
+.top-nav-collapse {
+	background: #4b07d8;
+}
+
+.carousel-indicators .active {
+    background-color: rgb(177, 154, 202);
+}
+
+.header-text h2 span {
+    background-color: #4b07d8;
+}
+
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: rgb(177, 154, 202);
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: rgb(177, 154, 202);
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid rgb(177, 154, 202);
+}
+
+.bg-skin {
+	background: #4b07d8;
+}
+
+.highlight-color {
+	background-color: #4b07d8;
+}
+
+.service-box:hover {
+	border-bottom: 2px solid #4b07d8;
+}
+
+
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #3dc9b3;
+}
+form.search-form input:focus {
+	border-color: rgb(177, 154, 202);
+}
+
+/* footer */
+ul.footer-menu li a:hover {
+	color: rgb(177, 154, 202);
+}
+
+footer a.totop:hover {
+	color: rgb(177, 154, 202);
+}
+
+/*END COLORS*/
+
+
+/*STYLE.CSS changes*/
+.learn-more-btn { background: #4D1979; padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #fff; text-transform: uppercase; letter-spacing: 1px; display: inline-block; -webkit-box-shadow: 0px 3px 0px 0px #3A135C; -moz-box-shadow: 0px 3px 0px 0px #3A135C; box-shadow: 0px 3px 0px 0px #3A135C; margin: 60px 0 0; font-weight: bold; }
+.learn-more-btn:hover, .learn-more-btn:focus { background: rgba(177, 154, 202, 0.6); color: #fff; }
+
+
+
+
+
+/*CUSTOM changes*/
+
+.custom-spacing {
+	margin-top: 30px;
+}
